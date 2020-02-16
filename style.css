@@ -1,0 +1,115 @@
+*{
+    font-family: 'Lato', sans-serif;
+}
+.wrapper{
+    padding: 0px;
+    margin: auto;
+    overflow: hidden;
+    width: 1024px;
+}
+
+header{
+    padding: 5% 10%;
+    display: flex;
+    height: 15%;
+    border-bottom: 3px solid #00008B;
+}
+
+.header-img{
+    width: 30%;
+}
+
+.header-img img{
+    max-width: 200px;
+    margin: auto;
+}
+
+.header-info{
+    width: auto;
+    margin: 5% auto 5% 5%;
+}
+
+.header-info h1{
+    color: #00008B;
+}
+
+.header-contact{
+    padding: 10px 0px;
+    font-size: 18px;
+}
+
+.header-contact ul{
+    padding: 0;
+}
+
+.header-info li{
+    color: #00008B;
+    list-style-type: none;
+}
+
+section{
+    margin: 0;
+    padding: 2%;
+    border-bottom: 3px solid #00008B;
+}
+
+h3{
+    color: #00008B;
+}
+
+blockquote {
+    background: linear-gradient(135deg,#ADD8E6 50%, #F4FEF9 50%);
+    padding: 50px 30px;
+    text-align: center;
+    position: relative;
+    color: #00008B;
+    padding: 30px 50px;
+    font-family: 'Lato', sans-serif;
+}
+blockquote p {
+    font-size: 22px;
+    margin-top: 30px;
+}
+
+/*skills*/
+.wrapper-skills-img{
+    display: inline-flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.skills-img{
+    width: 170px;
+    height: 170px;
+    padding: 5px;
+    margin: 10px;
+    border: 3px solid #00008B;
+    border-radius: 50%;
+}
+
+.skills-img img{
+    width: 150px;
+    height: 150px;
+    padding: 5%;
+    border-radius: 50%;
+}
+
+.additional-info{
+    color: #00008B;
+    font-size: 18px;
+}
+
+footer{
+     background-color: #00008B;
+     height: 70px;
+     margin-top: -20px;
+     color: #fff;
+ }
+
+footer p{
+    padding: 1% 95%;
+    float: left;
+}
+
+
+
