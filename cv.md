@@ -213,4 +213,5 @@ sapedit.map = {
     };
 ~~~
 6. Experience: 1 year frontend developer.
-7. Education: Udmurt State University master's degree in fundamental Informatics and information technology (honors degree)
+7. Education: Udmurt State University master's degree in fundamental Informatics and information technology (honors degree).
+8. English: pre-intermediate
